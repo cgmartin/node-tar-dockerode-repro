@@ -1,0 +1,20 @@
+{
+  "name": "node-tar-dockerode-repro",
+  "version": "1.0.0",
+  "description": "Repro node tar implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cgmartin@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "1.5.1",
+    "dockerode": "2.2.3",
+    "fstream": "1.0.8",
+    "lodash": "3.10.1",
+    "tar": "2.2.1",
+    "tar-fs": "1.8.1",
+    "url": "0.11.0"
+  }
+}
